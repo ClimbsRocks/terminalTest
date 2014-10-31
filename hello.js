@@ -5,3 +5,5 @@ var intro = function() {
 	  console.log('hello ' + status + ' world');
 	}
 }
+
+//change to test message sending in Terminal
