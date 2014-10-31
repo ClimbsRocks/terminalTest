@@ -7,3 +7,4 @@ var intro = function() {
 }
 
 //change to test message sending in Terminal
+//test3
