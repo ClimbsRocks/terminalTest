@@ -1,3 +1,4 @@
 var intro = function() {
-	console.log('hello world');
+	var status = 'happy'
+	console.log('hello ' + status + ' world');
 }
